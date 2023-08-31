@@ -1,2 +1,2 @@
 #!/bin/bash
-stat --format="%A %U %G %i %s %y %n" .[!.]* *
+ls -lna
