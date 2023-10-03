@@ -1,2 +1,2 @@
 #!/bin/bash
-file "$(realpath /tmp/iamafile)"
+file /tmp/iamafile
